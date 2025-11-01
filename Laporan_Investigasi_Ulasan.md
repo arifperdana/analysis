@@ -16,9 +16,9 @@ Analisis dilakukan melalui tiga pendekatan utama yang juga lazim digunakan dalam
 
 1. **Analisis Teks dan Semantik (Language Patterning)** - Menelusuri pengulangan kata, gaya bahasa, serta struktur kalimat yang identik antarulasan. Pendekatan ini mengidentifikasi template linguistik yang tidak natural dalam komunikasi organik (Ott et al., 2011; Mukherjee et al., 2013).
 
-2. **Analisis Perilaku Akun (Metadata Behavior)** - Menilai pola waktu unggah, jumlah review per akun, dan kemungkinan keterkaitan antarprofil. Metode ini mendeteksi anomali temporal dan profil reviewer yang konsisten dengan kampanye terkoordinasi (Luca & Zervas, 2016; Fei et al., 2013).
+2. **Analisis Perilaku Akun (Metadata Behavior)** - Menilai pola waktu unggah, jumlah review per akun, dan kemungkinan keterkaitan antarprofil. Metode ini mendeteksi anomali temporal dan profil reviewer yang konsisten dengan kampanye terkoordinasi (Luca & Zervas, 2015; Fei et al., 2013).
 
-3. **Analisis Kontekstual Lintas-Review (Narrative Triangulation)** - Membandingkan isi ulasan positif dan negatif untuk melihat upaya sistematis menutupi kritik. Teknik ini mengidentifikasi kontra-narasi yang terstruktur sebagai respons terhadap keluhan spesifik (Jindal & Liu, 2008; Li et al., 2019).
+3. **Analisis Kontekstual Lintas-Review (Narrative Triangulation)** - Membandingkan isi ulasan positif dan negatif untuk melihat upaya sistematis menutupi kritik. Teknik ini mengidentifikasi kontra-narasi yang terstruktur sebagai respons terhadap keluhan spesifik (Jindal & Liu, 2008; Li et al., 2015).
 
 **Kombinasi ketiganya menunjukkan pola naratif berulang dan aktivitas akun yang mencurigakan—indikasi kuat adanya orkestrasi ulasan palsu (astroturfing).**
 
@@ -331,7 +331,7 @@ Tujuan laporan ini adalah memberikan dokumentasi terstruktur dari pola mencuriga
 
 ### Analisis Metadata dan Perilaku Temporal
 
-**Luca, M., & Zervas, G. (2016).** Fake it till you make it: Reputation, competition, and Yelp review fraud. *Management Science*, 62(12), 3412-3427.
+**Luca, M., & Zervas, G. (2015).** Fake it till you make it: Reputation, competition, and Yelp review fraud. *Management Science*, 62(12), 3412-3427.
 - Studi ekonometrik tentang fraud review, menganalisis pola temporal dan motivasi bisnis dalam manipulasi ulasan.
 
 **Fei, G., Mukherjee, A., Liu, B., Hsu, M., Castellanos, M., & Ghosh, R. (2013).** Exploiting burstiness in reviews for review spammer detection. *Proceedings of the Seventh International AAAI Conference on Webs and Social Media*, 175-184.
@@ -339,7 +339,7 @@ Tujuan laporan ini adalah memberikan dokumentasi terstruktur dari pola mencuriga
 
 ### Astroturfing dan Kampanye Manipulasi
 
-**Li, H., Chen, Z., Mukherjee, A., Liu, B., & Shao, J. (2019).** Analyzing and detecting opinion spam on a large-scale dataset via temporal and spatial patterns. *Proceedings of the Ninth International AAAI Conference on Web and Social Media*, 634-637.
+**Li, H., Chen, Z., Mukherjee, A., Liu, B., & Shao, J. (2015).** Analyzing and detecting opinion spam on a large-scale dataset via temporal and spatial patterns. *Proceedings of the Ninth International AAAI Conference on Web and Social Media*, 634-637.
 - Analisis spatio-temporal untuk mendeteksi kampanye astroturfing berskala besar.
 
 **Mayzlin, D., Dover, Y., & Chevalier, J. (2014).** Promotional reviews: An empirical investigation of online review manipulation. *American Economic Review*, 104(8), 2421-2455.
@@ -376,8 +376,8 @@ Tujuan laporan ini adalah memberikan dokumentasi terstruktur dari pola mencuriga
 Metodologi yang digunakan dalam laporan ini mengadaptasi framework dari literatur akademik di atas, khususnya:
 
 1. **Language pattern analysis** mengikuti pendekatan Ott et al. (2011, 2013) dalam mengidentifikasi deceptive language markers
-2. **Temporal burst detection** menggunakan konsep dari Fei et al. (2013) dan Luca & Zervas (2016)
-3. **Narrative triangulation** mengadaptasi metode dari Li et al. (2019) dalam analisis cross-review patterns
+2. **Temporal burst detection** menggunakan konsep dari Fei et al. (2013) dan Luca & Zervas (2015)
+3. **Narrative triangulation** mengadaptasi metode dari Li et al. (2015) dalam analisis cross-review patterns
 4. **Behavioral profiling** mengintegrasikan insights dari Mukherjee et al. (2013) dan Rayana & Akoglu (2015)
 
 Kombinasi ketiga pendekatan ini memberikan analisis yang robust dan evidence-based terhadap kemungkinan review manipulation campaigns.
