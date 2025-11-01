@@ -292,19 +292,7 @@ Ulasan positif tampak menjadi bagian dari kampanye astroturfing terkoordinasi. M
 
 Kehadiran ulasan dari istri pemilik sendiri lebih lanjut mengonfirmasi bahwa praktik manipulatif sedang digunakan.
 
-### 6.2 Rekomendasi Tindakan
-
-1. **Laporkan ke Google:** Laporkan ulasan mencurigakan, terutama dari istri pemilik, sebagai pelanggaran kebijakan Google
-
-2. **Dokumentasikan Pola:** Simpan screenshot dan arsip ulasan sebagai bukti kampanye manipulasi
-
-3. **Edukasi Konsumen:** Bagikan temuan ini untuk membantu calon pasien membuat keputusan berdasarkan informasi
-
-4. **Pertimbangkan Investigasi Lebih Lanjut:** Jika memungkinkan, selidiki legalitas praktik medis dan izin operasional
-
-5. **Monitor Berkelanjutan:** Pantau terus ulasan baru untuk pola manipulasi yang berkelanjutan
-
-### 6.3 Catatan Penutup
+### 6.2 Catatan Penutup
 
 Laporan ini didasarkan pada analisis objektif pola bahasa, struktur testimoni, dan data profil reviewer. Meskipun temuan menunjukkan indikasi kuat manipulasi sistematis, penilaian akhir dan tindakan hukum harus dilakukan oleh otoritas yang berwenang.
 
