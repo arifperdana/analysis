@@ -237,7 +237,7 @@ Respons pemilik kepada mohammad helmi, *"Sekarang aja sudah lama tidak ada pengi
 
 ---
 
-## 4. ANALISIS KUANTITATIF
+## 4. ANALISIS KUANTITATIF (Sampling 83 dari 426 post)
 
 | Kategori | Jumlah Ulasan | Persentase |
 |----------|---------------|------------|
