@@ -191,10 +191,6 @@ Pola kompres dan jamu yang sangat spesifik: *"kompres 11 kali", "15 kali per har
 
 ### 2.4 Profil Reviewer Mencurigakan
 
-#### Akun "1 Review"
-
-Proporsi sangat besar reviewer positif hanya memiliki 1 ulasan di profil mereka. Ini adalah tanda kuat akun dibuat khusus untuk posting ulasan palsu.
-
 #### Spike Ulasan
 
 Terdapat konsentrasi tinggi ulasan yang diposting baru-baru ini ("New", "seminggu lalu", "sebulan lalu"), mengindikasikan kampanye burst.
